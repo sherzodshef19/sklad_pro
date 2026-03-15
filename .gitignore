@@ -1,0 +1,4 @@
+# Git ignore for Sklad.pro
+.git/
+*.log
+*.sql.bak
